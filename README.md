@@ -14,42 +14,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br clear="both">
+<p align="center">
+  <img src="https://img.shields.io/badge/INDRAJIT%20MAJI-Portfolio-blueviolet?style=for-the-badge&logo=github" />
+  <br>
+  <em> <span style="color:#39ff14;">Turning Curiosity into Skills — Building the Future One Project at a Time</span> </em>
+</p>
 
-<h1 align="center">It's me INDRAJIT MAJI</h1>
+---
 
-###
+##  Hi, I’m Indrajit Maji! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="linkedin logo"  />
-</div>
+_BCom (Hons.) Student at Kirori Mal College, University of Delhi — driven by curiosity, creativity, and a growth mindset._
 
-###
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/indrajit-maji-954309221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://instagram.com/https://www.instagram.com/beingindra2025?igsh=Ym1nbzZpdmxncXl6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://youtube.com/@https://youtube.com/@beingindra?si=zdqZdJWnhEaIRxwo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://wa.link/fuwx97" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
+###  My Toolbox (Neon Mode)
 
-###
+| Tool/Icon | How I Use It |
+|-----------|--------------|
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Building business dashboards that speak. |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Automating analysis, scripting, and data exploration. |
+| ![Hailuo AI](https://img.shields.io/badge/Hailuo-AI-Video-Gen-purple?style=for-the-badge) | Creating dynamic video content using generative AI. |
+| ![Sora](https://img.shields.io/badge/Sora-Video-Gen-brightgreen?style=for-the-badge) | Enhancing presentations with AI-powered visuals. |
+| ![Kling AI](https://img.shields.io/badge/KlingAI-Audio-Gen-orange?style=for-the-badge) | Synthesizing audio for voiceovers and ads. |
+| ![Suno](https://img.shields.io/badge/Suno-Music-Gen-yellow?style=for-the-badge) | Composing original tunes and soundtracks. |
+| ![Hugging Face](https://img.shields.io/badge/HuggingFace-NLP-and-models-pink?style=for-the-badge) | Experimenting with transformers and fine-tuning models. |
+| ![ChatGPT](https://img.shields.io/badge/ChatGPT-Text-Assistant-teal?style=for-the-badge) | Generating ideas, drafting content, exploring queries. |
+| ![Gemini](https://img.shields.io/badge/Gemini-Multi-Modal-AI-red?style=for-the-badge) | Blending text, image, and logic-driven outputs. |
+| ![Claude](https://img.shields.io/badge/Claude-Advanced-AI-Companion-blue?style=for-the-badge) | Deep conversation and creative ideation. |
+| ![Leonardo AI](https://img.shields.io/badge/Leonardo-AI-Image-Gen-forestgreen?style=for-the-badge) | Crafting visual concepts and AI-made art. |
+| ![Notebook LM](https://img.shields.io/badge/Notebook-LM-Knowledge-Assistant-lightskyblue?style=for-the-badge) | Organizing insights, summarizing research. |
+| ![Durable](https://img.shields.io/badge/Durable-Website-Builder-cadetblue?style=for-the-badge) | Launching landing pages in minutes. |
+| ![Framer AI](https://img.shields.io/badge/Framer-AI-UI-Design-purple?style=for-the-badge) | Designing modern web experiences with AI. |
+| ![Wix ADI](https://img.shields.io/badge/Wix-ADI-Web-Builder-indigo?style=for-the-badge) | Creating websites with guided AI tools. |
+
+---
+
+###  Projects in Focus
+
+- **[Power BI Sales Dashboard](#)** — Bringing data to life with visuals and insights.  
+- **[AI Video Promo](#)** — A short ad crafted using Hailuo AI and ChatGPT.  
+- **[Python Analysis Script](#)** — Automating business dataset exploration.
+
+---
+
+###  On the Journey
+
+> _“Every line of code, every generative project, is a step toward my future as an AI Product Manager or Data Analyst.”_
+
+---
+
+###  Let’s Connect
+
+<p align="center">  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+  [![Email](https://img.shields.io/badge/Email-Hello!-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
+  [![GitHub](https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github)](https://github.com/your-username)  
+</p>
+
+✨ _More projects coming soon—stay tuned!_
